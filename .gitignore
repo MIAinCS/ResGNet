@@ -2,7 +2,6 @@
 .vscode/
 **/*ckpt/
 **/lightning_logs/
-config.yaml
 **/*output/
 !backup/**
 ckpt_*/

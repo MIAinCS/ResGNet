@@ -1,0 +1,18 @@
+
+input:
+  train:
+    - /home/fanqiliang/data/Prostate/TrainingData_Part1
+    - /home/fanqiliang/data/Prostate/TrainingData_Part2
+    - /home/fanqiliang/data/Prostate/TrainingData_Part3
+  test:
+    - /home/fanqiliang/data/TestData
+
+processed:
+  # train: /home/fanqiliang/processed_data/hist
+  # train: /home/fanqiliang/processed_data/hist_test_20_8
+  train: /home/fanqiliang/processed_data/hist_test_50_8
+  # train: /home/fanqiliang/processed_data/hist_test_50_6
+  # train: /home/fanqiliang/processed_data/hist_test_200_8
+  # train: /home/fanqiliang/processed_data/hist_test_50_16
+  # train: /home/fanqiliang/processed_data/3denoised_data
+  test: /home/fanqiliang/processed_data/processed_test
