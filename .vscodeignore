@@ -1,0 +1,13 @@
+**/__pycache__/
+.vscode/
+**/ckpt/
+**/lightning_logs/
+*.png
+*.ckpt
+**/output/
+backup/**
+ckpt_*/
+output_*/
+logs/
+grad_output/
+sync.sh

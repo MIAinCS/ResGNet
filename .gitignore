@@ -1,0 +1,13 @@
+**/__pycache__/
+.vscode/
+**/*ckpt/
+**/lightning_logs/
+config.yaml
+**/*output/
+!backup/**
+ckpt_*/
+output_*/
+logs/
+grad_output/
+submit_mhd/
+# sync.sh
